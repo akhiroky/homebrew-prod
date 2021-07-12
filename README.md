@@ -3,7 +3,7 @@ Homebrew recipes for my products.
 
 ## Available products
 | name | WWW | description |
-|------|-----|-------------|
+|------|:-----:|-------------|
 | [teacat](https://github.com/akhiroky/TeaCat) | [:speech_balloon:](https://tamada.github.io/rrh) |  Implements of wc and cat commands. | 
 
 ## How to install above tools
