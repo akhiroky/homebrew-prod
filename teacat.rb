@@ -1,7 +1,7 @@
 VERSION = "1.0.0"
 
 class Teacat < Formula
-  dec "Implements of wc and cat command."
+  desc "Implements of wc and cat command."
   homepage "https://github.com/akhiroky/TeaCat"
   url "https://github.com/akhiroky/TeaCat/releases/download/v#{VERSION}-alpha/TeaCat-#{VERSION}_linux_amd64.tar.gz"
   version VERSION
