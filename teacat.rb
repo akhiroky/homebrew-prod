@@ -1,11 +1,12 @@
-VERSION = "1.0.0"
+VERSION = "1.0.0-alpha"
+OS = "darwin"
 
 class Teacat < Formula
   desc "Implements of wc and cat command."
   homepage "https://github.com/akhiroky/TeaCat"
-  url "https://github.com/akhiroky/TeaCat/releases/download/v#{VERSION}-alpha/TeaCat-#{VERSION}_linux_amd64.tar.gz"
+  url "https://github.com/akhiroky/TeaCat/releases/download/v#{VERSION}/TeaCat-#{VERSION}_#{OS}_amd64.tar.gz"
   version VERSION
-  sha256 "04e8f5080c07c11d90c919e8b12072e31990844168bd64dfdd1631de1da2f1ed"
+  sha256 "e4de19fb6d559b8205102b02f951c7f32e970a8f7a44fe4ea72467400b8c13f5"
   license "CC0"
   
 
